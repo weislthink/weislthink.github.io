@@ -6,8 +6,16 @@
     <description>Recent content on wei blog</description>
     <generator>Hugo -- 0.130.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Oct 2024 17:20:33 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 18:42:45 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tuwen</title>
+      <link>http://localhost:1313/posts/tuwen/</link>
+      <pubDate>Tue, 08 Oct 2024 18:42:45 +0800</pubDate>
+      <guid>http://localhost:1313/posts/tuwen/</guid>
+      <description>Your New Post Title This is the content of your new blog post. You can write in Markdown format.
+Subheading More text and images&amp;hellip; </description>
+    </item>
     <item>
       <title>Test</title>
       <link>http://localhost:1313/posts/test/</link>
